@@ -1,3 +1,9 @@
+# Mutations and Subscriptions in Relay
+
+Laney Kuenzel
+
+http://2015.jsconf.us/speakers.html#kuenzel
+
 * GraphQL
   * JSON object of only keys, not value in the tuples
   * Indicates shape of results
