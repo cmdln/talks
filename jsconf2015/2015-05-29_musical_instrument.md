@@ -1,5 +1,7 @@
 # Building a musical instrument with the Web Audio API
+
 Steve Kinney
+
 http://2015.jsconf.us/speakers.html##kinney
 
 ## Someone put a synthesizer in your web browser
