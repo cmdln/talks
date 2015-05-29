@@ -1,5 +1,9 @@
-* Someone put a synthesizer in your web browser
-  * Based on web Audio API
+# Building a musical instrument with the Web Audio API
+Steve Kinney
+http://2015.jsconf.us/speakers.html##kinney
+
+## Someone put a synthesizer in your web browser
+* Based on web Audio API
 * Uses a context, like Canvas
 * Destination
   * Output, like an amp if you play guitar
@@ -20,7 +24,9 @@
 * Speaker recommends re-using
   * Can just create gain node
   * Gain to zero effectively stops oscillator
-* Live demo
+
+## Live demo
+* Simplest code to get started
   * Able to set frequency
   * Able to set wave shape - sine, box, sawtooth, triangle
 * Talked through some basic info need to go from basic tones to musical notes, scales
@@ -34,15 +40,16 @@
   * Lets you request a note, get frequencies
   * Also intervals - root, thirds, fourths, fifths, etc.
 * audiophonic - instrument built on this work
-* Someone put a web browser in your synthesizer
-  * Can combine other APIs with Web Audio
-  * Demo - face theremin
-    * Combining media capture API
-    * Tracking face as input to tone
-  * Demo - web sockets
-    * Step sequencer
-    * Socket to node server, accepts sequences
-    * Sends those back out to other connected clients
-    * Each client combines all the shared sequences and play
-  * Demo - hardware hack, make input more flexible using arduino
-  * So much more still possible!
+
+## Someone put a web browser in your synthesizer
+* Can combine other APIs with Web Audio
+* Demo - face theremin
+  * Combining media capture API
+  * Tracking face as input to tone
+* Demo - web sockets
+  * Step sequencer
+  * Socket to node server, accepts sequences
+  * Sends those back out to other connected clients
+  * Each client combines all the shared sequences and play
+* Demo - hardware hack, make input more flexible using arduino
+* So much more still possible!
