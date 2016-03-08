@@ -1,3 +1,5 @@
+# Reproducible Builds for Secure, Reliable Containers
+
 * http://gist-reveal.it/623376518b1d7a941f87
 * OpenShift provides developer convenience on top of other tools, in particular Kubernetes
   * K8s provides object model, or primitives, for automation
